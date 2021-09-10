@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
-        <java.version>1.8</java.version>
+        <java.version>1.7</java.version>
         <junit.jupiter.version>8.8.0-RC1</junit.jupiter.version>
         <junit.compiler.plugin.version>3.8.1</junit.compiler.plugin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
