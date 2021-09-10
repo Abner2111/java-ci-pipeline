@@ -14,4 +14,9 @@ public class OpsTest {
         Ops op= new Ops();
         assertEquals(9, op.product(4.5F,2));
     }
+    @Test
+    public void testDiv(){
+        Ops op = new Ops();
+        assertEquals(9, op.divide(18,2));
+    }
 }
